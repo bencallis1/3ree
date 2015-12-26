@@ -10,7 +10,7 @@ export default class Header extends Component {
           <div className='Pulse-links'>
             <IndexLink to='/' activeClassName='active'>All Events</IndexLink>  
             <Link to='/my-events' activeClassName='active'>My Events</Link>
-            <Link to='/other-events' activeClassName='active'>Other Events</Link>
+            <Link to='/other-events' activeClassName='active'>Events</Link>
           </div>
         </header>
       </div>
